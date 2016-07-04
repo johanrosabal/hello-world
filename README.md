@@ -2,6 +2,7 @@
 
 Hi All!
 
-This is my first gibhut tutorial, I hope to understand all the basic examples about this tool.
+This is my first gibhub tutorial, I hope to understand all the basic examples about this tool.
+
 
 Regards
